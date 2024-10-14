@@ -1,0 +1,3 @@
+foo=bar
+umlauts=φόόδί
+quz.baz=3
